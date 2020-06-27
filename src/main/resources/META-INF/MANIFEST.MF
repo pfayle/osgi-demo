@@ -3,3 +3,4 @@ Bundle-Version: 1.0.0.SNAPSHOT
 Import-Package: com.michaelrice.demo;version="1.0.0.SNAPSHOT",org.osgi.framework
 Export-Package: com.michaelrice.demo;version="1.0.0.SNAPSHOT"
 Bundle-Activator: com.michaelrice.demo.DemoActivator
+Bundle-ManifestVersion: 2
